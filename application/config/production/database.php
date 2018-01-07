@@ -105,12 +105,6 @@ $db['default'] = array(
 	'username' => 'root',
 	'password' => 'quangquynh',
 	'database' => 'quangquynh',
-	/*
-	'hostname' => '212.48.91.219',
-	'username' => 'quizk-ik9-u-016436',
-	'password' => 'password',
-	'database' => 'quizk-ik9-u-016436',
-	*/
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

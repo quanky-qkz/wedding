@@ -16,4 +16,8 @@ class Home extends Public_Controller
     	$this->data['page_js'] = 'home';
       $this->render('home/home_view');
     }
+
+    public func test() {
+      echo "<h1>" . $_SERVER['CI_ENV'] ."</h1>"
+    }
 }
