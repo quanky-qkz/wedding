@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://34.249.164.17/uvent-cms-v2/';
+$config['base_url'] = 'http://quangquynh.com/';
 
 /*
 |--------------------------------------------------------------------------
