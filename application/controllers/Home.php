@@ -17,7 +17,7 @@ class Home extends Public_Controller
       $this->render('home/home_view');
     }
 
-    public func test() {
+    public function test() {
       echo "<h1>" . $_SERVER['CI_ENV'] ."</h1>"
     }
 }
