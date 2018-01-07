@@ -18,6 +18,6 @@ class Home extends Public_Controller
     }
 
     public function test() {
-      echo "<h1>" . $_SERVER['CI_ENV'] ."</h1>"
+      echo "<h1>" . $_SERVER['CI_ENV'] ."</h1>";
     }
 }
