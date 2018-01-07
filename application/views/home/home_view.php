@@ -221,16 +221,12 @@
 			       </div>
 			    </div>
        <div class="attend">
-	           <h3 class="tittle atd">Are You Attending? rsvp here!</h3>
+	           <h3 class="tittle atd">Are You Attending? RSVP here!</h3>
 	         <div class="rsvp">
                       <form>
 					    	<div>
 						    	<span><label>Your Name</label></span>
 						    	<span><input name="userName" type="text" class="textbox"></span>
-						    </div>
-						    <div>
-						    <span><label>Your Email</label></span>
-						    	<span><input name="userEmail" type="text" class="textbox"></span>
 						    </div>
 						    <div>
 						     	<span><label>Ceremony & Party</label></span>
