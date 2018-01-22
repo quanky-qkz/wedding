@@ -1,31 +1,40 @@
-<div class="footer">
- <div class="container">
-  <div class="footer-top">
-     <div class="col-md-4 footer-grid">
-        <h4>Wedding <span>Venue</span></h4>
-           <ul class="bottom">
-        <li>(888) 123-456-7890</li>
-        <li>Available 24/7</li>
-      </ul>
-     </div>
-     <div class="col-md-4 footer-grid">
-        <h4>Message Us  <span>Now </span></h4>
-             <ul class="bottom">
-          <li><i class="glyphicon glyphicon-home"></i>Available 24/7 </li>
-        <li><i class="glyphicon glyphicon-envelope"></i><a href="mailto:info@example.com">mail@example.com</a></li>
-        </ul>
-     </div>
-   <div class="col-md-4 footer-grid">
-        <h4>Address  <span>Location </span></h4>
-            <ul class="bottom">
-          <li><i class="glyphicon glyphicon-map-marker"></i>2901 Glassgow Road, WA 98122-1090 </li>
-        <li><i class="glyphicon glyphicon-earphone"></i>phone: (888) 123-456-7899 </li>
-        </ul>
-     </div>
-   <div class="clearfix"> </div>
-  </div>
-</div>
-</div>
+<div class="attend">
+      <h3 class="tittle atd">Are You Attending? RSVP here!</h3>
+    <div class="rsvp">
+       <form id="form" action="<?php echo site_url('home/doAttend');?>" method="post" >
+         <div>
+           <span><label>Bạn là</label></span>
+           <span><input name="attendee" type="text" class="textbox"></span>
+         </div>
+         <div>
+           <span><label>Bạn chú rể, họ hàng, nguời yêu cũ cô dâu, etc ...</label></span>
+           <span><input name="relation" type="text" class="textbox"></span>
+         </div>
+         <div>
+           <span><label>Bạn sẽ tham dự đuợc</label></span>
+           <span><select name="event">
+             <option value="0">Đám cuới</option>
+             <option value="1">Ruớc dâu</option>
+             <option value="2">Cả hai</option>
+           </select></span>
+         </div>
+       <div>
+           <span><label>Guest</label></span>
+           <span><input name="guest" type="text" class="textbox"></span>
+         </div>
+         <div>
+             <span><label>Note</label></span>
+             <span><input name="note" placeholder="Tell us anything u want" type="text" class="textbox"></span>
+           </div>
+        <div class="sub">
+           <input type="submit" value="I am attending" />
+       </div>
+
+       </form>
+      </div>
+   </div>
+<!--/footer-->
+
 
 <div class="copy">
     <p>&copy; Đám cuới Phạm Quang - Phạm Quỳnh </p>

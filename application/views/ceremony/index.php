@@ -126,30 +126,4 @@
 					   <div class="clearfix"> </div>
 			       </div>
 			    </div>
-       <div class="attend">
-	           <h3 class="tittle atd">Are You Attending? rsvp here!</h3>
-	         <div class="rsvp">
-                      <form>
-					    	<div>
-						    	<span><label>Your Name</label></span>
-						    	<span><input name="userName" type="text" class="textbox"></span>
-						    </div>
-						    <div>
-						    	<span><label>Your Email</label></span>
-						    	<span><input name="userEmail" type="text" class="textbox"></span>
-						    </div>
-						    <div>
-						     	<span><label>Ceremony & Party</label></span>
-						    	<span><select name="event"><option value="All Events">All Events</option><option value="Ceremony">Ceremony</option><option value="Party">Party</option></select></span>
-						    </div>
-							<div>
-						    	<span><label>Guest</label></span>
-						    	<span><input name="userName" type="text" class="textbox"></span>
-						    </div>
-							 <div class="sub">
-						   		<input type="submit" value="I am attending" />
-						  </div>
-
-					    </form>
-			       </div>
-			    </div>
+       
