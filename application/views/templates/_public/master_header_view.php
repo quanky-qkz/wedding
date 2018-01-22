@@ -11,6 +11,13 @@
 <!--Custom-Theme-files-->
 	<link href="<?php echo base_url();?>assets/css/style.css" rel='stylesheet' type='text/css' />
 	<script src="<?php echo base_url();?>assets/js/jquery.min.js"> </script>
+	<link rel="stylesheet" href="<?php echo base_url();?>assets/css/lightbox.css" type="text/css" media="all" />
+	<script src="<?php echo base_url();?>assets/js/modernizr.custom.js"></script>
+
+	<!-- jQuery UI 1.10.3 -->
+	<script src="<?php echo base_url();?>assets/admin/js/jquery-ui-1.10.3.min.js" type="text/javascript"></script>
+	<!-- jQuery validate -->
+	<script src="<?php echo base_url();?>assets/admin/js/jquery.validate.min.js"></script>
 <!--/script-->
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/move-top.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/js/easing.js"></script>
@@ -37,7 +44,6 @@
 								<li><a class="home-top-menu" href="<?php echo site_url('home');?>">Home</a></li>
 								<li><a class="ceremony-top-menu" href="<?php echo site_url('ceremony');?>">Ceremony</a></li>
 								<li><a class="album-top-menu" href="<?php echo site_url('album');?>">Our Albums</a></li>
-								<li><a class="contact-top-menu" href="<?php echo site_url('contact');?>">contact</a></li>
 							</ul>
 				</div>
             <!-- script-for-menu -->

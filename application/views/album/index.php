@@ -10,104 +10,19 @@
   <div class="gallery-section">
       <div class="container">
          <div class="categorie-grids cs-style-1">
+					 <?php for ($i = 1; $i <= 50; $i++) { ?>
 				 <div class="col-md-4 cate-grid grid">
 					<figure>
-						<img src="images/s11.jpg" alt="">
+						<img src="<?php echo base_url();?>assets/images/album/<?php echo "wedding_album_" . $i ?>.JPG" alt="">
 						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s11.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
+							<h3>Our wedding</h3>
+							<!-- <span>Accusantium Dolor</span> -->
+							<a class="example-image-link" href="<?php echo base_url();?>assets/images/album/<?php echo "wedding_album_" . $i ?>.JPG" data-lightbox="example-1" data-title="">VIEW</a>
 						</figcaption>
 					</figure>
 				 </div>
-				 <div class="col-md-4 cate-grid grid">
-					 <figure>
-						<img src="images/s2.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s2.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-
-
-				 <div class="col-md-4 cate-grid grid">
-					 <figure>
-						<img src="images/s3.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s3.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-
-				 <div class="col-md-4 cate-grid grid">
-					<figure>
-						<img src="images/s4.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s4.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-
-				 <div class="col-md-4 cate-grid grid">
-					<figure>
-						<img src="images/s5.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s5.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-
-				 <div class="col-md-4 cate-grid grid">
-					 <figure>
-						<img src="images/s22.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s22.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-				 	<div class="col-md-4 cate-grid grid">
-					<figure>
-						<img src="images/s33.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s33.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-				 <div class="col-md-4 cate-grid grid">
-					 <figure>
-						<img src="images/s8.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s8.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-
-
-				 <div class="col-md-4 cate-grid grid">
-					 <figure>
-						<img src="images/s9.jpg" alt="">
-						<figcaption>
-							<h3>Best Day</h3>
-							<span>Accusantium Dolor</span>
-							<a class="example-image-link" href="images/s9.jpg" data-lightbox="example-1" data-title="Interior Design">VIEW</a>
-						</figcaption>
-					</figure>
-				 </div>
-               <script src="js/lightbox.js"></script>
+			 <?php } ?>
+			 <script src="<?php echo base_url();?>assets/js/lightbox.js"></script>
 			 <div class="clearfix"></div>
 		 </div>
 	 </div>
@@ -140,33 +55,3 @@
 					    </form>
 			       </div>
 			    </div>
-	<!--/footer-->
-
-	     <div class="footer">
-		    <div class="container">
-				 <div class="footer-top">
-				    <div class="col-md-4 footer-grid">
-					     <h4>Wedding <span>Venue</span></h4>
-				          <ul class="bottom">
-							 <li>(888) 123-456-7890</li>
-							 <li>Available 24/7</li>
-						 </ul>
-				    </div>
-					  <div class="col-md-4 footer-grid">
-					     <h4>Message Us  <span>Now </span></h4>
-				            <ul class="bottom">
-						     <li><i class="glyphicon glyphicon-home"></i>Available 24/7 </li>
-							 <li><i class="glyphicon glyphicon-envelope"></i><a href="mailto:info@example.com">mail@example.com</a></li>
-						   </ul>
-				    </div>
-					<div class="col-md-4 footer-grid">
-					     <h4>Address  <span>Location </span></h4>
-				           <ul class="bottom">
-						     <li><i class="glyphicon glyphicon-map-marker"></i>2901 Glassgow Road, WA 98122-1090 </li>
-							 <li><i class="glyphicon glyphicon-earphone"></i>phone: (888) 123-456-7899 </li>
-						   </ul>
-				    </div>
-					<div class="clearfix"> </div>
-				 </div>
-			</div>
-	     </div>
