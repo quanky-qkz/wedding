@@ -15,22 +15,9 @@ class Home extends Public_Controller
     {
       $this->data['page_title'] = 'Home';
     	$this->data['page_js'] = 'home';
-      $this->render('home/home_view_bride');
-    }
-
-    public function bride()
-    {
-    	$this->data['page_title'] = 'Home';
-    	$this->data['page_js'] = 'home';
-      $this->render('home/home_view_bride');
-    }
-
-    public function groom()
-    {
-    	$this->data['page_title'] = 'Home';
-    	$this->data['page_js'] = 'home';
       $this->render('home/home_view');
     }
+
 
     public function doAttend() {
       $insertID = -1;

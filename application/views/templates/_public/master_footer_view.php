@@ -14,7 +14,7 @@
            <span><label>Bạn sẽ tham dự đuợc</label></span>
            <span><select name="event">
              <option value="0">Đám cuới</option>
-             <option value="1">Ruớc dâu</option>
+             <option value="1">Ăn hỏi</option>
              <option value="2">Cả hai</option>
            </select></span>
          </div>

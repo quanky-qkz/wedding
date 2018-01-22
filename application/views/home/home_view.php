@@ -10,7 +10,7 @@
 							</li>
 							<li>
 								<div class="banner-info">
-								   <h3>Jack & <span> Julie</span> </h3>
+								   <h3>Quang & <span> Quỳnh</span> </h3>
 								</div>
 							</li>
 							<li>
@@ -45,18 +45,7 @@
 			 <!--main-drop-->
 			 <div class="main-drop">
 			   <img src="<?php echo base_url();?>assets/images/hands.jpg" alt=""/>
-			    <div class="hands">
-				    <h4>The Venue</h4>
-			         <div class="section_room">
-								<select id="country" onchange="change_country(this.value)" class="frm-field required">
-									<option value="null">Select</option>
-									<option value="null">Stands out </option>
-									<option value="AX">where lets</option>
-									<option value="AX">Vitae lorem</option>
-								</select>
-							</div>
 
-				</div>
 				 <div class="couple">
 				 <div class="bride">
 				   <img src="<?php echo base_url();?>assets/images/bride.jpg" class="img-responsive" alt="">
@@ -76,9 +65,9 @@
 		    <div class="container">
 				<div class="welcome-top">
 				    <img src="<?php echo base_url();?>assets/images/couple.jpg" class="img-responsive" alt="">
-					 <h2>Jack & Julie</h2>
-					 <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.</p>
-					   <a class="read" href="<?php echo site_url('detail');?>">Read More</a>
+					 <h2>Quang & Quỳnh</h2>
+					 <p></p>
+					   <!-- <a class="read" href="<?php echo site_url('detail');?>">Read More</a> -->
 				    </div>
 				</div>
 			</div>
@@ -220,4 +209,3 @@
 					   <div class="clearfix"> </div>
 			       </div>
 			    </div>
-       
