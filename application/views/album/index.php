@@ -13,12 +13,9 @@
 					 <?php for ($i = 1; $i <= 15; $i++) { ?>
 				 <div class="col-md-4 cate-grid grid">
 					<figure>
-						<img src="<?php echo base_url();?>assets/images/album/<?php echo "a" . $i ?>.jpg" alt="">
-						<figcaption>
-							<h3>Our wedding</h3>
-							<!-- <span>Accusantium Dolor</span> -->
-							<a class="example-image-link" href="<?php echo base_url();?>assets/images/album/<?php echo "a" . $i ?>.jpg" data-lightbox="example-1" data-title="">VIEW</a>
-						</figcaption>
+						<a class="example-image-link" href="<?php echo base_url();?>assets/images/album/<?php echo "a" . $i ?>.jpg" data-lightbox="example-1" data-title="">
+							<img src="<?php echo base_url();?>assets/images/album/<?php echo "a" . $i ?>.jpg" alt="">
+						</a>
 					</figure>
 				 </div>
 			 <?php } ?>
