@@ -21,6 +21,10 @@ body a {
    font-family: 'GreatVibes-Regular';
    src: url(../fonts/GreatVibes-Regular.ttf)format('truetype');
 }
+@font-face {
+   font-family: 'HeraldicaScript-Regular';
+   src: url(../fonts/Sudtipos - HeraldicaScript.otf);
+}
 a:hover{
  text-decoration:none;
 }
@@ -33,7 +37,7 @@ input[type="button"],input[type="submit"],li.parallelogram{
 }
 h1,h2,h3,h4,h5,h6{
    margin:0;
-   font-family: 'GreatVibes-Regular';
+   font-family: 'HeraldicaScript-Regular';
    font-weight:400;
 
 }

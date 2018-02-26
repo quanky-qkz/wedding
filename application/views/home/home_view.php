@@ -79,18 +79,19 @@
 				   <div class="col-md-6 registry-left">
 
 					<div class="registry-text">
-					<h4>Church Of San Paul</h4>
-					<h6>11 : 30 am In The Square</h6>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat purus sed tempus ornare. Sed convallis eu orci ut sodales. Nam rhoncus laoreet elit, a condimentum augue tempor vitae in faucibus cura. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat purus sed tempus ornare. Sed convallis eu orci ut sodales. Nam rhoncus laoreet elit, a condimentum augue tempor.</p>
+					<h4>Nhà riêng nhà trai</h4>
+					<h6>137 đường Ngư Hải - P. Lê Mao - TP, Vinh</h6>
+					<p>Đám vui sẽ diễn ra từ 8 h đến hết đêm</p>
 					</div>
 					 <a href="single.html" class="mask"><img src="<?php echo base_url();?>assets/images/r1.jpg" alt="image" class="img-responsive zoom-img"></a>
 				   </div>
 				    <div class="col-md-6 registry-right">
 					 <a href="single.html" class="mask"><img src="<?php echo base_url();?>assets/images/r2.jpg" alt="image" class="img-responsive zoom-img"></a>
 					<div class="registry-text">
-					<h4>Restaurant Golf Club</h4>
-					<h6>1 : 30 pm In The Garden</h6>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat purus sed tempus ornare. Sed convallis eu orci ut sodales. Nam rhoncus laoreet elit, a condimentum augue tempor vitae in faucibus cura. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat purus sed tempus ornare. Sed convallis eu orci ut sodales. Nam rhoncus laoreet elit, a condimentum augue tempor.</p>
+					<h4>Nhà khách Nghệ An</h4>
+					<h5>04 Phan Đăng Lưu - TP. Vinh</h5>
+					<h6>11:00 AM</h6>
+					<p>Đám cuới sẽ diễn ra vào hồi 11h</p>
 					</div>
 
 					</div>
@@ -99,56 +100,10 @@
 		 </div>
 	<!--//registry-->
 
-	<!--start-services-->
-<div class="friends-section">
-				    <h3 class="tittle">Friends says</h3>
-    <div class="friends">
-	     	<div class="container">
-			<div class="testimonial-content">
-			    <p> <img src="<?php echo base_url();?>assets/images/quote.png" class="img-responsive" alt=""> Congratulations! &nbsp;Christine an Peter I am glad to here that you are starting your new life after the excellent moments together&nbsp;I wish you for all your dreams of tomorrow<img src="<?php echo base_url();?>assets/images/quote1.png" class="img-responsive" alt=""> </p>
-		    </div>
-
-					<div  class="callbacks_container">
-					<ul class="rslides" id="slider3">
-					          <li>
-								 <div  class="test"> <img src="<?php echo base_url();?>assets/images/t1.jpg" class="img-responsive" alt=""><h5>Sarah Norton</h5></div>
-							   </li>
-							<li>
-								  <div  class="test">  <img src="<?php echo base_url();?>assets/images/t3.jpg" class="img-responsive" alt=""><h5>Frank Miller</h5></div>
-							</li>
-							<li>
-								   <div  class="test"> <img src="<?php echo base_url();?>assets/images/t4.jpg" class="img-responsive" alt=""><h5>Laura Green</h5></div>
-
-							</li>
-						</ul>
-					</div>
-					<!--banner-->
-	  			<script src="<?php echo base_url();?>assets/js/responsiveslides.min.js"></script>
-			 <script>
-			    // You can also use "$(window).load(function() {"
-			    $(function () {
-			      // Slideshow 3
-			      $("#slider3").responsiveSlides({
-			        auto: true,
-			        pager:false,
-			        nav:true,
-			        speed: 500,
-			        namespace: "callbacks",
-			        before: function () {
-			          $('.events').append("<li>before event fired.</li>");
-			        },
-			        after: function () {
-			          $('.events').append("<li>after event fired.</li>");
-			        }
-			      });
-
-			    });
-			  </script>
-	</div>
- </div>
- </div>
- <!--//testimonials-->
  <!--/program-->
+
+
+ <!--
 			   <div class="program">
 		           <div class="container">
 				     <h3 class="tittle"> Program of the Day</h3>
@@ -209,3 +164,4 @@
 					   <div class="clearfix"> </div>
 			       </div>
 			    </div>
+-->
