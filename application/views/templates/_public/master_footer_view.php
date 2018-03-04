@@ -16,6 +16,7 @@
              <option value="0">Đám cuới</option>
              <option value="1">Ăn hỏi</option>
              <option value="2">Cả hai</option>
+             <option value="3">Xin lỗi tôi không tham dự được</option>
            </select></span>
          </div>
        <div>
