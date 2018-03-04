@@ -7,17 +7,11 @@
 	</div>
 	  <!--//banner-->
 	<!--ceremony-->
-
 	<div class="ceremony">
 	     	<div class="container">
-					<div class="invitation">
-						<a class="example-image-link" href="<?php echo base_url();?>assets/images/invitation.jpg" data-lightbox="example-1" data-title="">
-							<img src="<?php echo base_url();?>assets/images/invitation.jpg" alt="invitation">
-						</a>
-					</div>
 			 <div class="blog-bottom">
 	        <div class="blog-left">
-	        	<a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b1.jpg" alt="image" class="img-responsive zoom-img"></a>
+	        	<a href="single.html" class="mask"><img src="images/s4.jpg" alt="image" class="img-responsive zoom-img"></a>
 	        </div>
 	        <span class="circle"></span>
 			<span class="devide-line"></span>
@@ -32,7 +26,7 @@
 	        <span class="circle"></span>
 			<span class="devide-line"></span>
 	         <div class="blog-right">
-	        	 <a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b2.jpg" alt="image" class="img-responsive zoom-img"></a>
+	        	 <a href="single.html" class="mask"><img src="images/s5.jpg" alt="image" class="img-responsive zoom-img"></a>
 	        </div>
 			 <div class="blog-left second">
 	        	<h6>10 April 2015</h6>
@@ -45,7 +39,7 @@
 	        <span class="circle"></span>
 			<span class="devide-line"></span>
 	         <div class="blog-right two">
-	        	 <a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b3.jpg" alt="image" class="img-responsive zoom-img"></a>
+	        	 <a href="single.html" class="mask"><img src="images/s6.jpg" alt="image" class="img-responsive zoom-img"></a>
 	        </div>
 		   <div class="blog-left two">
 	        	<h6>10 April 2015</h6>
@@ -56,7 +50,7 @@
          </div>
           <div class="blog-bottom">
 	        <div class="blog-left two last">
-	         <a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b4.jpg" alt="image" class="img-responsive zoom-img"></a>
+	         <a href="single.html" class="mask"><img src="images/s7.jpg" alt="image" class="img-responsive zoom-img"></a>
 	        </div>
 	        <span class="circle"> </span>
 			<span class="devide-line"></span>
@@ -67,7 +61,7 @@
 	        </div>
 	        <div class="clearfix"> </div>
          </div>
-       <div class="post"><a href="#">Read More</a></div>
+       <div class="post"><a href="single.html">Read More</a></div>
 
 		    </div>
 	</div>
@@ -76,7 +70,7 @@
 		           <div class="container">
 				     <h3 class="tittle"> Program of the Day</h3>
 					   <div class="col-md-6 program-img">
-					    <a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b5.jpg" alt="image" class="img-responsive zoom-img"></a>
+					    <a href="single.html" class="mask"><img src="images/menu.jpg" alt="image" class="img-responsive zoom-img"></a>
 						<h4>Wedding Menu</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat purus sed tempus ornare. Sed convallis eu orci ut sodales. Nam rhoncus laoreet elit, a condimentum augue tempor vitae in faucib.</p>
 					   </div>
@@ -132,4 +126,3 @@
 					   <div class="clearfix"> </div>
 			       </div>
 			    </div>
-					<script src="<?php echo base_url();?>assets/js/lightbox.js"></script>

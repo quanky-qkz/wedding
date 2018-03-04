@@ -3280,3 +3280,11 @@ ul.bottom i {
 		padding: 2em 1em;
 	}
 }
+
+.invitation {
+  width: 70%;
+  margin: 50px auto;
+}
+.invitation img {
+  width: 100%;
+}
