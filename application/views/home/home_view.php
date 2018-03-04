@@ -23,7 +23,7 @@
 					<!--banner-->
 	  			<script src="<?php echo base_url();?>assets/js/responsiveslides.min.js"></script>
 			 <script>
-			    // You can also use "$(window).load(function() {"
+
 			    $(function () {
 			      // Slideshow 4
 			      $("#slider4").responsiveSlides({
