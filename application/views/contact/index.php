@@ -10,8 +10,8 @@
 	       <div class="section-contact">
 				<div class="contact-main">
 					<div class="col-md-6 contact-in">
-						<h5>Lorem ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor.</h5>
-						<p class="para1">Lorem ipsum dolor sit amet. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.  </p>
+						<h5>H5</h5>
+						<p class="para1">Para 1</p>
 						<div class="more-address">
 								<address>
 								  <strong>Twitter, Inc.</strong><br>
