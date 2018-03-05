@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Quang Quynh, Wedding, Vinh, Nghe An, Vietnam" />
-<meta name = "description" content="Đám cuới của Quang & Quỳnh" />
+<meta name = "description" content="Đám cưới của Quang & Quỳnh" />
 <link href="<?php echo base_url();?>assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link href='//fonts.googleapis.com/css?family=Open+Sans:700,700italic,800,300,300italic,400italic,400,600,600italic' rel='stylesheet' type='text/css'>
 <!--Custom-Theme-files-->

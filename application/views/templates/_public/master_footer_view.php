@@ -13,7 +13,7 @@
          <div>
            <span><label>Bạn sẽ tham dự đuợc</label></span>
            <span><select name="event">
-             <option value="0">Đám cuới</option>
+             <option value="0">Đám cưới</option>
              <option value="1">Ăn hỏi</option>
              <option value="2">Cả hai</option>
              <option value="3">Xin lỗi tôi không tham dự được</option>
@@ -38,7 +38,7 @@
 
 
 <div class="copy">
-    <p>&copy; Đám cuới Phạm Quang - Phạm Quỳnh </p>
+    <p>&copy; Đám cưới Phạm Quang - Phạm Quỳnh </p>
     <div>
       STK: Phạm Ngọc Quang 0451001910579 VCB chi nhánh Thành Công - Hà Nội
     </div>

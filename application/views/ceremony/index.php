@@ -50,8 +50,8 @@
 	        </div>
 		   <div class="blog-left two">
 	        	<h6>Ngày 12 tháng 3 năm 2018</h6>
-	        	<h4>Ruớc dâu và đám cuới</h4>
-	        	<p>Nhà trai sẽ đón dâu và cử hành lễ cuới vào ngày 25 tháng Giêng năm Mậu Tuất (tức ngày 12-3 năm 2018) vào hồi 11h tại Nhà Khách Tỉnh Nghệ An</p>
+	        	<h4>Rước dâu và đám cưới</h4>
+	        	<p>Nhà trai sẽ đón dâu và cử hành lễ cưới vào ngày 25 tháng Giêng năm Mậu Tuất (tức ngày 12-3 năm 2018) vào hồi 11h tại Nhà Khách Tỉnh Nghệ An</p>
 	        </div>
 	        <div class="clearfix"></div>
          </div>
@@ -64,7 +64,7 @@
 	        <div class="blog-right two">
 	        	<h6>Ngày 12 tháng 3 năm 2018</h6>
 	        	<h4>Chụp ảnh lưu niệm</h4>
-	        	<p>Tại hội truờng cuới bạn bè và anh em họ hàng đến chung vui cùng cô dâu chú rể mời chụp ảnh lưu niệm</p>
+	        	<p>Tại hội truờng cưới bạn bè và anh em họ hàng đến chung vui cùng cô dâu chú rể mời chụp ảnh lưu niệm</p>
 	        </div>
 	        <div class="clearfix"> </div>
          </div>
@@ -75,7 +75,7 @@
  <!--/program-->
 			   <div class="program">
 		           <div class="container">
-				     <h3 class="tittle"> Chuơng trình ngày cuới</h3>
+				     <h3 class="tittle"> Chương trình ngày cưới</h3>
 					   <div class="col-md-6 program-img">
 					    <a href="#" class="mask"><img src="<?php echo base_url();?>assets/images/album/b5.jpg" alt="image" class="img-responsive zoom-img"></a>
 						<h4>Thực đơn nhà hàng</h4>
@@ -101,8 +101,8 @@
 												<a href="#">8:30</a>
 											</div>
 											<div class="post-text">
-												<h4><a class="pp-title" href="#">Ruớc dâu</a></h4>
-						            <p>Ruớc dâu về TP Vinh</p>
+												<h4><a class="pp-title" href="#">Rước dâu</a></h4>
+						            <p>Rước dâu về TP Vinh</p>
 											</div>
 											<div class="clearfix"></div>
 										</div>
@@ -112,7 +112,7 @@
 											</div>
 											<div class="post-text">
 											<h4><a class="pp-title" href="#">Ra hội truờng</a></h4>
-						                        <p>Cô dâu và chú rể đi vòng quanh thành phố và ra hội truờng cuới</p>
+						                        <p>Cô dâu và chú rể đi vòng quanh thành phố và ra hội truờng cưới</p>
 											</div>
 											<div class="clearfix"></div>
 										</div>
@@ -121,8 +121,8 @@
 												<a href="#">11 </a>
 											</div>
 											<div class="post-text">
-												<h4><a class="pp-title" href="#">Lễ cuới</a></h4>
-						                        <p>Tiến hành lễ cuới tại hồi truờng Nhà Khách tỉnh</p>
+												<h4><a class="pp-title" href="#">Lễ cưới</a></h4>
+						                        <p>Tiến hành lễ cưới tại hồi truờng Nhà Khách tỉnh</p>
 											</div>
 											<div class="clearfix"></div>
 										</div>
