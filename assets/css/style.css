@@ -22,8 +22,33 @@ body a {
    src: url(../fonts/GreatVibes-Regular.ttf)format('truetype');
 }
 @font-face {
+   font-family: 'Benchmark';
+   src: url(../fonts/TUV-Benchmark.ttf)format('truetype');
+}
+
+@font-face {
    font-family: 'HeraldicaScript-Regular';
    src: url(../fonts/Sudtipos - HeraldicaScript.otf);
+}
+
+@font-face {
+   font-family: 'Above-Light';
+   src: url(../fonts/Above-Light.ttf);
+}
+
+@font-face {
+   font-family: 'Above-Bold';
+   src: url(../fonts/Above-Bold.ttf);
+}
+
+@font-face {
+   font-family: 'Above-Black';
+   src: url(../fonts/Above-Black.ttf);
+}
+
+@font-face {
+   font-family: 'Prime-Regular';
+   src: url(../fonts/Prime-Regular.ttf);
 }
 a:hover{
  text-decoration:none;
@@ -37,13 +62,13 @@ input[type="button"],input[type="submit"],li.parallelogram{
 }
 h1,h2,h3,h4,h5,h6{
    margin:0;
-   font-family: 'HeraldicaScript-Regular';
+   font-family: 'Above-Bold';
    font-weight:400;
 
 }
-p{
+p {
 	margin:0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Prime-Regular';
 }
 ul{
 	margin:0;
