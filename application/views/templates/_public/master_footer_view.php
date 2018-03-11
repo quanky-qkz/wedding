@@ -1,4 +1,4 @@
-<div class="attend">
+<!-- <div class="attend">
       <h3 class="tittle atd">Are You Attending? RSVP here!</h3>
     <div class="rsvp">
        <form id="form" action="<?php echo site_url('home/doAttend');?>" method="post" >
@@ -33,7 +33,7 @@
 
        </form>
       </div>
-   </div>
+   </div> -->
 <!--/footer-->
 
 
